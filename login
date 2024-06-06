@@ -7,3 +7,5 @@ function login(username, password) {
 }
 
 login('admin', 'admin');
+git add login
+git commit -m "Add login feature"
